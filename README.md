@@ -51,7 +51,7 @@
 
 - 🔥 [**Bayesian Probability Library**](https://github.com/yigitkand3mir/BayesianLibrary) — Open-source library for probabilistic decision-making.
 - 🎯 [**Customer Churn Prediction - METU Datathon**](https://github.com/AshNumpy/METU-Datathon) — Predictive modeling project for customer retention strategies.
-- 🚀 [**COBIDU Course Completion Predictor**] *(GitHub link varsa buraya ekle kanka!)*
+
 
 ---
 
