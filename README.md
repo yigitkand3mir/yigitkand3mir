@@ -6,11 +6,6 @@
 <h3 align="center">Data Scientist & AI Specialist | Predictive Analytics | Bayesian Enthusiast</h3>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
-</picture>
 
 
 ### 🚀 About Me
@@ -60,6 +55,13 @@
 
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
+</picture>
+
+
 
 ### ✍️ Quote to Live By
 
