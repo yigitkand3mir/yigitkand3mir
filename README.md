@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26uf9QPzzlKPvQG5G/giphy.gif" width="600" alt="Welcome GIF">
-</p>
-
 <h1 align="center">Hi, I'm Yiğit Kandemir 👋</h1>
 <h3 align="center">Data Scientist & AI Specialist | Predictive Analytics | Bayesian Enthusiast</h3>
 
