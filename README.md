@@ -1,21 +1,18 @@
-<h1 align="center">Hi, I'm Yiğit Kandemir 👋</h1>
-<h3 align="center">Data Scientist & AI Specialist | Predictive Analytics | Bayesian Enthusiast</h3>
+<h1 align="center">Hi, ich bin Yiğit Kandemir 👋</h1>
+<h3 align="center">Data Scientist & KI-Spezialist | Predictive Analytics | Bayesian Enthusiast</h3>
 
 ---
 
-
-### 🚀 About Me
-
-- 🎓 **Statistics Graduate** from Hacettepe University
-- 🧩 Specializing in **Predictive Analytics**, **Bayesian Models**, and **AI solutions**
-- 🧠 Passionate about **Bayesian Statistics** and **Decision Theory**
-- ✈️ Experience in **Aeronautical Data Systems**, **Churn Prediction**, and **Educational Analytics**
-- 🤝 Open to freelance projects and collaborations worldwide!
+### 🚀 Über mich
+- 🎓 **Statistik-Absolvent** der Hacettepe Universität
+- 📚 **Derzeit Masterstudium Data Science** an der **Universität Augsburg**
+- 🧩 Spezialisiert auf **Predictive Analytics**, **Bayesianische Modelle** und **KI-Lösungen**
+- 🧠 Leidenschaftlich für **Bayesianische Statistik** und **Entscheidungstheorie**
+- ✈️ Erfahrung in **Luftfahrt-Datensystemen**, **Churn Prediction** und **Bildungsanalysen**
 
 ---
 
-### 🛠️ Languages & Tools
-
+### 🛠️ Sprachen & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
@@ -27,8 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub Statistiken
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yigitkand3mir&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitkand3mir&layout=compact&theme=radical" />
@@ -36,37 +32,30 @@
 
 ---
 
-### 🌍 Connect with Me
-
+### 🌍 Kontakt
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yigitkand3mir)
 
 ---
 
-### 📂 Pinned Projects
-
-- 🔥 [**Bayesian Probability Library**](https://github.com/yigitkand3mir/BayesianLibrary) — Open-source library for probabilistic decision-making.
-- 🎯 [**Customer Churn Prediction - METU Datathon**](https://github.com/AshNumpy/METU-Datathon) — Predictive modeling project for customer retention strategies.
-
+### 📂 Angeheftete Projekte
+- 🔥 [**Bayesian Probability Library**](https://github.com/yigitkand3mir/BayesianLibrary) — Open-Source-Bibliothek für probabilistische Entscheidungsfindung.
+- 🎯 [**Customer Churn Prediction - METU Datathon**](https://github.com/AshNumpy/METU-Datathon) — Prädiktives Modellierungsprojekt zur Kundenbindung.
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/yigitkand3mir/yigitkand3mir/output/github-snake.svg" />
 </picture>
 
-
-
-### ✍️ Quote to Live By
-
-> _"Without data, you're just another person with an opinion." — W. Edwards Deming_
+### ✍️ Zitat
+> _"Ohne Daten bist du nur eine weitere Person mit einer Meinung." — W. Edwards Deming_
 
 ---
 
-### ✨ Visitors Counter
-
+### ✨ Besucherzähler
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yigitkand3mir&style=for-the-badge" alt="Visitor Counter" />
 </p>
